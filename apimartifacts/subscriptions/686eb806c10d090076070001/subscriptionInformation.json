@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/fede59c6-4361-40ce-9269-1602a0f6bd88/resourceGroups/tz-apim-demo-resgrp/providers/Microsoft.ApiManagement/service/tz-apim-demo-np/products/starter",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/fede59c6-4361-40ce-9269-1602a0f6bd88/resourceGroups/tz-apim-demo-resgrp/providers/Microsoft.ApiManagement/service/tz-apim-demo-np/users/1",
+    "state": "active"
+  }
+}
