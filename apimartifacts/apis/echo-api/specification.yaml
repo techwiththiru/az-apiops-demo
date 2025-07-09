@@ -87,6 +87,13 @@ paths:
       responses:
         '200':
           description: ''
+  /echo-demo:
+    get:
+      description: 'Test add a new path to the api specification file.'
+      parameters: []
+      responses:
+        '200':
+          description: OK
 components:
   securitySchemes:
     apiKeyHeader:
